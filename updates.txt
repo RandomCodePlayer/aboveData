@@ -1,5 +1,1 @@
-10/11/2026|Added shop system.;Added trading.;Fixed inventory bug.
-09/11/2026|Added new map.;Added 5 new NPCs.;Added 3 quests.
-08/11/2026|Improved performance.;Reduced lag.;Optimized loading times.
-07/11/2026|Added daily rewards.;Added reward streaks.
-06/11/2026|Added new weapons.;Balanced existing weapons.
+07/11/2026|Morten no longer resets health when players step away. Health has gone up as a result due to ranged weapons.;Skeletons now count towards combat achievement;Fixed older Goldbone Sword stats that didn't get up'd from buff;Soul Scepter now does 165-175 damage per cast (206-219dps), range also increased by 20.
